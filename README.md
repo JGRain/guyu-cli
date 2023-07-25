@@ -23,3 +23,4 @@ $ guyu-cli create <name> [-t|--template]
 示例
 
 $ guyu-cli create hello-cli -t dumi2-demo
+# guyu-cli
